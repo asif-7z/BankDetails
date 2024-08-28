@@ -15,6 +15,14 @@ http://127.0.0.1:8000/api/register/
 ```
 http://127.0.0.1:8000/login
 ```
+## token generated
+- for example
+```
+{
+    "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcyNDkyMDU3MiwiaWF0IjoxNzI0ODM0MTcyLCJqdGkiOiI0MDQyMWE4ODlmYTU0Y2FlYTE4YmMxODVkOTlmNDZmMCIsInVzZXJfaWQiOjF9.ti4B_xAp-MnKbQXr2AGO-qH_l-YfhgzklwpYeKbBk9w",
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzI0ODM3NzcyLCJpYXQiOjE3MjQ4MzQxNzIsImp0aSI6IjJkMmZiNThlM2Q0NDRiNTc5YjgyN2Y1NzFiMTdlNzY2IiwidXNlcl9pZCI6MX0.vCrjUKfP5hrZtCQze1ZVDsyuYL0litqJy0PUYCqEnn8"
+}
+```
 
 
 
