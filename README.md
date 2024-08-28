@@ -6,17 +6,19 @@ username : asif
 password :admin@123
 ```
 
+
+
 ## endpoints
 
 ```
-api/register/
-api/login/
-api/token/refresh/
-api/logout/
-api/accounts/
-api/transaction/
-api/login-logout-history/
-api/deposite_withdraw/
+api/register/?token=" access token "
+api/login/?token=" access token "
+api/token/refresh/?token=" access token "
+api/logout/?token=" access token "
+api/accounts/?token=" access token "
+api/transaction/?token=" access token "
+api/login-logout-history/?token=" access token "
+api/deposite_withdraw/?token=" access token "
 
 ```
 
