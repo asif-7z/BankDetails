@@ -6,7 +6,7 @@ username : asif
 password :admin@123
 ```
 
-##genrate access token
+## genrate access token
 - Register account
 ```
 http://127.0.0.1:8000/api/register/
