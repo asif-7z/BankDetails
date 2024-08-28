@@ -6,12 +6,23 @@ username : asif
 password :admin@123
 ```
 
+##genrate access token
+- Register account
+```
+http://127.0.0.1:8000/api/register/
+```
+- login
+```
+http://127.0.0.1:8000/login
+```
+
+
 
 
 ## endpoints
 
 ```
-api/register/?token=" access token "
+api/register/
 api/login/?token=" access token "
 api/token/refresh/?token=" access token "
 api/logout/?token=" access token "
